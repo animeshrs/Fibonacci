@@ -1,0 +1,11 @@
+E:\FibonacciSequence\FibonacciSolution\Repository\bin\Debug\net5.0\Repository.deps.json
+E:\FibonacciSequence\FibonacciSolution\Repository\bin\Debug\net5.0\Repository.dll
+E:\FibonacciSequence\FibonacciSolution\Repository\bin\Debug\net5.0\ref\Repository.dll
+E:\FibonacciSequence\FibonacciSolution\Repository\bin\Debug\net5.0\Repository.pdb
+E:\FibonacciSequence\FibonacciSolution\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\FibonacciSequence\FibonacciSolution\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+E:\FibonacciSequence\FibonacciSolution\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+E:\FibonacciSequence\FibonacciSolution\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+E:\FibonacciSequence\FibonacciSolution\Repository\obj\Debug\net5.0\Repository.dll
+E:\FibonacciSequence\FibonacciSolution\Repository\obj\Debug\net5.0\ref\Repository.dll
+E:\FibonacciSequence\FibonacciSolution\Repository\obj\Debug\net5.0\Repository.pdb

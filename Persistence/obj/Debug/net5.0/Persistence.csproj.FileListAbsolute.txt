@@ -1,0 +1,11 @@
+E:\FibonacciSequence\FibonacciSolution\Persistence\bin\Debug\net5.0\Persistence.deps.json
+E:\FibonacciSequence\FibonacciSolution\Persistence\bin\Debug\net5.0\Persistence.dll
+E:\FibonacciSequence\FibonacciSolution\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+E:\FibonacciSequence\FibonacciSolution\Persistence\bin\Debug\net5.0\Persistence.pdb
+E:\FibonacciSequence\FibonacciSolution\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\FibonacciSequence\FibonacciSolution\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+E:\FibonacciSequence\FibonacciSolution\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+E:\FibonacciSequence\FibonacciSolution\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+E:\FibonacciSequence\FibonacciSolution\Persistence\obj\Debug\net5.0\Persistence.dll
+E:\FibonacciSequence\FibonacciSolution\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+E:\FibonacciSequence\FibonacciSolution\Persistence\obj\Debug\net5.0\Persistence.pdb

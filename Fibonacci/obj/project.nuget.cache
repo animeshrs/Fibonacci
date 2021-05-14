@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0fLeSvSWH5c9wvkyr8dlvNxv07nqZgyd43Rtj2pqx4o6zGRMezead3h3Ktuy8Jazv4XLPLA5X262IlqAIpUoPA==",
+  "success": true,
+  "projectFilePath": "E:\\FibonacciSequence\\FibonacciSolution\\Fibonacci\\Fibonacci.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anime\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\anime\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
