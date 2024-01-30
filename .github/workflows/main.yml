@@ -12,7 +12,6 @@ jobs:
       - uses: actions/checkout@v1
       - name: Hello World
         run: echo 'Hello world action'
-        shell: bash
     
       
     
